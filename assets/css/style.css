@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("../images/star-war-background-9.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  background-attachment: fixed;
+}
+
+.title-image {
+  content: url("https://fontmeme.com/permalink/190329/9f80914e0027c38d8ace7cf0a94f483d.png");
+}
